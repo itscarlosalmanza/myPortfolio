@@ -1,0 +1,49 @@
+body {
+  background-color: #332e16;
+}
+
+.header {
+  padding: 20px;
+  background-color: #00000000;
+  color: #000000;
+  width: 100%;
+}
+
+.header h1 {
+  display: inline-block;
+  font-size: 100px;
+  text-emphasis: bold;
+  font-family: Canela;
+}
+
+.navi {
+  background-color: black;
+}
+
+ul li {
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family: Canela;
+}
+main {
+  background-color: black;
+  color: white;
+  border-radius: 50px;
+}
+
+.cm {
+  text-align: center;
+  font-family: Canela;
+  color: #50664a;
+}
+
+.lbt {
+  text-align: center;
+  font-family: Canela;
+  color: #50664a;
+}
+
+.col-sm {
+  align-content: center;
+}
